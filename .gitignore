@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.ckpt
+*.pt
+
+# Dataset
+data/
+dataset/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
