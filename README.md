@@ -42,15 +42,22 @@ This system was designed, implemented, optimized, and deployed as a **capstone-l
 ## 🏗️ System Architecture
 
 Live Camera Input
+
 ↓
+
 PoseNet (Skeletal Keypoint Detection)
+
 ↓
 VGG16 (Convolutional Feature Extraction)
+
 ↓
 Hybrid Deep Learning Model
+
 ↓
 Yoga Pose Classification
+
 ↓
+
 Corrective Feedback (Web Interface)
 
 
