@@ -48,12 +48,15 @@ Live Camera Input
 PoseNet (Skeletal Keypoint Detection)
 
 ↓
+
 VGG16 (Convolutional Feature Extraction)
 
 ↓
+
 Hybrid Deep Learning Model
 
 ↓
+
 Yoga Pose Classification
 
 ↓
